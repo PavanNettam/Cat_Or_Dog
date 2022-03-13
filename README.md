@@ -24,3 +24,5 @@ image to either cat or dog and nothing else.<br>
 3. Deployment of machine Learning model : https://www.youtube.com/watch?v=0nr6TPKlrN0&t=9s <br>
 4. CSS Bootstrap : https://getbootstrap.com/docs/3.4/css/ <br>
 
+<h2>Disclaimer</h2>
+Beware of absolute paths in the code.
